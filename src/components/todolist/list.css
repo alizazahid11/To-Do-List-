@@ -1,0 +1,23 @@
+.list-heading{
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color:rgb(0, 48, 106);
+   text-shadow: 2px 3px 2px steelblue;
+}
+.box{
+    width: 15%;
+    height: 30px;
+  background-color: rgb(218, 243, 235);
+}
+.add{
+ width:3%;
+    height: 34px;
+    cursor: pointer;
+}
+.list{
+    margin-left: 600px;
+    padding-left:-350px ;
+}
+.del{
+    margin-left: -450px;
+}
